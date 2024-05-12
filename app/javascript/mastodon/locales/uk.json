@@ -474,7 +474,6 @@
   "notification.follow_request": "{name} відправили запит на підписку",
   "notification.mention": "{name} згадали вас",
   "notification.moderation-warning.learn_more": "Дізнатися більше",
-  "notification.moderation_warning": "Ви отримали попередження модерації",
   "notification.moderation_warning.action_delete_statuses": "Деякі з ваших дописів було видалено.",
   "notification.moderation_warning.action_disable": "Ваш обліковий запис було вимкнено.",
   "notification.moderation_warning.action_mark_statuses_as_sensitive": "Деякі з ваших дописів були позначені як чутливі.",
